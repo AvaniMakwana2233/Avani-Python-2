@@ -1,0 +1,8 @@
+this is command of git 
+git status - for check file status 
+git add - for adding file in remote repo
+git push origin head 
+git init- initialize
+touch filename 
+
+git push origin head/ main
